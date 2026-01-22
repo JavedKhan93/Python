@@ -1,3 +1,4 @@
+# My first python script for GitHub
 import random
 import time
 
